@@ -188,4 +188,4 @@ This repository serves as the official landing page for Hogfish. The software is
 **Get the most recent version of Hogfish today!**
 
 ---
-**Last updated:** 2026-11-13 02:58:51 UTC
+**Last updated:** 2026-11-13 10:28:44 UTC
